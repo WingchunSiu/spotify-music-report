@@ -1,2 +1,2 @@
 # spotify-music-report
-Generate weekly/monthly Spotify music reports with AI-driven insights and shareable visuals.
+Generate weekly/monthly Spotify Wrapped with AI-driven insights and shareable visuals.
